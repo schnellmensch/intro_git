@@ -3,3 +3,4 @@ gitの練習をしていく
 お寿司は美味しい
 ・git add
 ・git commit
+・git status
